@@ -3,7 +3,7 @@
 <h3>AIM:</h3>
 <h3>ENTER YOUR NAME: BOOBESH P M</h3>
 <h3>ENTER YOUR REGISTER: 212222233001NO</h3>
-<h3>EX. 02NO</h3>
+<h3>EX.NO: 02</h3>
 <h3>DATE: 14/03/2024</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
